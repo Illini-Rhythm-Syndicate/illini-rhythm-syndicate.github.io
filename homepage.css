@@ -38,5 +38,9 @@ li a{
 .About.Us{
     text-align: center;
     font-size: 18px;
-    font-family: Montserrat;
+    font-family: Georgia, serif;
+}
+
+.inline.links{
+    color: blue;
 }
